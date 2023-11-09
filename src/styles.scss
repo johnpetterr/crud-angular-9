@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.purple a {
+    text-decoration: none;
+}
+
+.v-middle {
+    vertical-align: middle;
+}
+
+.msg-error {
+    background-color: #ff4141;
+}
+
+.msg-sucess {
+    background-color: #47ff41;
+}
